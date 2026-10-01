@@ -17,3 +17,10 @@ CRM básico para salvar dados de contato, preferências e histórico de peças i
 
 - **Portal do Cliente (Rastreio):**
 Um link público onde o cliente final pode acompanhar em tempo real (ou por status atualizados) em qual etapa a impressão dele está.
+
+## 💻 Sugestão de Tecnologias
+- **Banco de Dados:** PostgreSQL ou MySQL (perfeito para modelagem relacional de Clientes, Pedidos, Filamentos e Custos).
+
+- **Backend:** Python (com Flask ou FastAPI) ou Node.js (com Express) — ótimas escolhas para a lógica de negócio e cálculos da calculadora de custos.
+
+- **Frontend:** React, Vue.js ou até mesmo HTML5/CSS3 com Bootstrap/Tailwind para uma interface limpa e responsiva (estilo painel administrativo).
