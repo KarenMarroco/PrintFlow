@@ -19,6 +19,9 @@ CRM básico para salvar dados de contato, preferências e histórico de peças i
 - **Portal do Cliente (Rastreio):**
 Um link público onde o cliente final pode acompanhar em tempo real (ou por status atualizados) em qual etapa a impressão dele está.
 
+## Diagramas
+- [UML](Diagramas/diagramasuml.md)
+  
 ## 🛠️ Tecnologias Utilizadas
 
 #### **Backend**
